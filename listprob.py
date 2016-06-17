@@ -65,6 +65,6 @@ if __name__ == '__main__':
         if(item[0] <= 10):
             sline += 'https://github.com/cedarz/ltcode/blob/master/' + str(item[0]) + '.cpp)|\n'
         else:
-            sline += ')|\n'
+            sline += 'https://github.com/cedarz/ltcode/)|\n'
         md.write(sline)
     md.close()
