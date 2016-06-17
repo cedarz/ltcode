@@ -57,10 +57,10 @@ if __name__ == '__main__':
 
     md = open('README.md', 'w')
     md.write('#leetcode\n')
-    md.write('| 题号 | 题目 | Solution|\n')
-    md.write('|.....|:......|.........|\n')
+    md.write('| # | 题目 | Solution|\n')
+    md.write('|----|:----|------|\n')
     
     for item in lf:
-        sline = '|' + str(item[0]) + '[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|' + '[Solution ' + str(item[0]) + '](' + 'https://github.com/cedarz/ltcode/blob/master/' + str(item[0]) + '.cpp)|\n'
+        sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|' + '[Solution ' + str(item[0]) + '](' + 'https://github.com/cedarz/ltcode/blob/master/' + str(item[0]) + '.cpp)|\n'
         md.write(sline)
     md.close()
