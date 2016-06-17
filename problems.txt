@@ -1,0 +1,10 @@
+10	Regular Expression Matching	22.3%		Hard
+9	Palindrome Number	32.2%		Easy
+8	String to Integer (atoi)	13.6%		Easy
+7	Reverse Integer	23.7%		Easy
+6	ZigZag Conversion	24.4%		Easy
+5	Longest Palindromic Substring	23.4%		Medium
+4	Median of Two Sorted Arrays	19.0%		Hard
+3	Longest Substring Without Repeating Characters	22.4%		Medium
+2	Add Two Numbers	23.7%		Medium
+1	Two Sum	24.2%		Easy
