@@ -1,5 +1,5 @@
 # -*- coding: cp936 -*-
-#list the problems int the .md file
+#list the problems in the .md file
 
 import os
 import sys
@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
     md = codecs.open('README.md', 'w', 'utf-8')
     md.write('#leetcode\n')
-    md.write(u'| # | 题目 | Solution|\n')
+    md.write(u'| # | 脤芒脛驴 | Solution|\n')
     md.write('|-----|:-----|------|\n')
     
     for item in lf:
