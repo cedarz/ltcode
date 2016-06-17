@@ -61,6 +61,10 @@ if __name__ == '__main__':
     md.write('|-----|:-----|------|\n')
     
     for item in lf:
-        sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|' + '[Solution ' + str(item[0]) + '](' + 'https://github.com/cedarz/ltcode/blob/master/' + str(item[0]) + '.cpp)|\n'
+        sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|' + '[Solution ' + str(item[0]) + ']('
+        if(item[0] <= 10):
+            sline += 'https://github.com/cedarz/ltcode/blob/master/' + str(item[0]) + '.cpp)|\n'
+        else:
+            sline += ')|\n'
         md.write(sline)
     md.close()
