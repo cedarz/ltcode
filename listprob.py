@@ -20,13 +20,13 @@ def read_file(file):
 
         #problem name
         line = line[match.span()[1]:].strip()
-        match = re.match('[\D]+', line)
+        match = re.match('[ \(\)\-,\w]+', line)
         #print match.span(),
         oname = match.group().strip()
         name = match.group().strip().lower()
         name = re.sub('[\(\)]', '', name)
         name = name.replace(' ', '-')
-        #print "name : ", name
+        print "name : ", name
         item = item + (oname, name)
         
 
