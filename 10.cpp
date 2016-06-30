@@ -15,8 +15,6 @@ public:
         int ls = s.size(), lp = p.size();
         for(int j = 1; j <= lp; ++j) {
             if(p[j - 1] == '.') {
-                //cout << "## " << dp[i - 1][j - 1] << endl;
-                //cout << i - 1 << " " << j - 1 << endl;
                 dp[0][j] = 0;
             } else if(p[j - 1] == '*') {
                 dp[0][j] |= dp[0][j - 2];
@@ -26,16 +24,12 @@ public:
         for(int i = 1; i <= ls; ++i) {
             for(int j = 1; j <= lp; ++j) {
                 if(s[i - 1] == p[j - 1] || p[j - 1] == '.') {
-                    //cout << "## " << dp[i - 1][j - 1] << endl;
-                    //cout << i - 1 << " " << j - 1 << endl;
                     dp[i][j] = dp[i - 1][j - 1];
                 } else if(p[j - 1] == '*') {
                     if(p[j - 2] != '.') {
-                        //cout << p[j - 2] << endl;
                         dp[i][j] = dp[i][j - 2]; //j > 2, must have a element before *
                         int k = i - 1;
                         while(s[k] == p[j - 2] && dp[k + 1][j - 2] != 1 && k >= 0 ) --k;
-                        //printf("(%d, %d)\n", k + 1, j - 2);
                         dp[i][j] |= dp[k + 1][j - 2];
                     } else {
                         dp[i][j] = dp[i][j - 2];
