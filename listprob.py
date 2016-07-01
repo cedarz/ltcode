@@ -60,7 +60,7 @@ if __name__ == '__main__':
     md = codecs.open('README.md', 'w', 'utf-8')
     md.write('#leetcode\n')
     md.write(u'| # | ÌâÄ¿ | Solution|\n')
-    md.write('|-----|:-----|------|\n')
+    md.write('|:-----:|:-----|:------:|\n')
     
     for item in lf:
         sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|'

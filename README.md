@@ -1,6 +1,6 @@
 #leetcode
 | # | 题目 | Solution|
-|-----|:-----|------|
+|:-----:|:-----|:------:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Solution 1](https://github.com/cedarz/ltcode/blob/master/1.cpp)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Solution 2](https://github.com/cedarz/ltcode/blob/master/2.cpp)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Solution 3](https://github.com/cedarz/ltcode/blob/master/3.cpp)|
