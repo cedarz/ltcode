@@ -13,8 +13,8 @@
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|[Solution 10](https://github.com/cedarz/ltcode/blob/master/10.cpp)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Solution 11](https://github.com/cedarz/ltcode/blob/master/11.cpp)|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[Solution 12](https://github.com/cedarz/ltcode/blob/master/12.cpp)|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|Solution 13|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|Solution 14|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Solution 13](https://github.com/cedarz/ltcode/blob/master/13.cpp)|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Solution 14](https://github.com/cedarz/ltcode/blob/master/14.cpp)|
 |15|[3Sum](https://leetcode.com/problems/3sum)|Solution 15|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|Solution 16|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|Solution 17|
