@@ -60,4 +60,6 @@ int main() {
     return 0;
 }
 
-##-4, -3, -1, -1, 0, 1, 2, 2, 3, 4, 4
+//-4, -3, -1, -1, 0, 1, 2, 2, 3, 4, 4
+//f(i, j) = M(i, j) + M(i, no_j) + M(no_i, j) + f(no_i, no_j)
+//slide i and j through all the same items
