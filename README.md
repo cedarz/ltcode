@@ -16,7 +16,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Solution 13](https://github.com/cedarz/ltcode/blob/master/13.cpp)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Solution 14](https://github.com/cedarz/ltcode/blob/master/14.cpp)|
 |15|[3Sum](https://leetcode.com/problems/3sum)|[Solution 15](https://github.com/cedarz/ltcode/blob/master/15.cpp)|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|Solution 16|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|[Solution 16](https://github.com/cedarz/ltcode/blob/master/16.cpp)|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|Solution 17|
 |18|[4Sum](https://leetcode.com/problems/4sum)|Solution 18|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|Solution 19|
