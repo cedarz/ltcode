@@ -17,10 +17,10 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Solution 14](https://github.com/cedarz/ltcode/blob/master/14.cpp)|
 |15|[3Sum](https://leetcode.com/problems/3sum)|[Solution 15](https://github.com/cedarz/ltcode/blob/master/15.cpp)|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|[Solution 16](https://github.com/cedarz/ltcode/blob/master/16.cpp)|
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|Solution 17|
-|18|[4Sum](https://leetcode.com/problems/4sum)|Solution 18|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|Solution 19|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Solution 20|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Solution 17](https://github.com/cedarz/ltcode/blob/master/17.cpp)|
+|18|[4Sum](https://leetcode.com/problems/4sum)|[Solution 18](https://github.com/cedarz/ltcode/blob/master/18.cpp)|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Solution 19](https://github.com/cedarz/ltcode/blob/master/19.cpp)|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Solution 20](https://github.com/cedarz/ltcode/blob/master/20.cpp)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|Solution 21|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|Solution 22|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|Solution 23|
