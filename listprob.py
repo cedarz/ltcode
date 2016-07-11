@@ -64,7 +64,7 @@ if __name__ == '__main__':
     
     for item in lf:
         sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|'
-        if item[0] <= 20:
+        if item[0] <= 26:
             sline += '[Solution ' + str(item[0]) + '](' + 'https://github.com/cedarz/ltcode/blob/master/' + str(item[0]) + '.cpp)|\n'
         else:
             sline += 'Solution ' + str(item[0]) + '|\n'

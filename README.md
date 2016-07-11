@@ -21,12 +21,12 @@
 |18|[4Sum](https://leetcode.com/problems/4sum)|[Solution 18](https://github.com/cedarz/ltcode/blob/master/18.cpp)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Solution 19](https://github.com/cedarz/ltcode/blob/master/19.cpp)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Solution 20](https://github.com/cedarz/ltcode/blob/master/20.cpp)|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|Solution 21|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|Solution 22|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|Solution 23|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|Solution 24|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|Solution 25|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|Solution 26|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Solution 21](https://github.com/cedarz/ltcode/blob/master/21.cpp)|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[Solution 22](https://github.com/cedarz/ltcode/blob/master/22.cpp)|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Solution 23](https://github.com/cedarz/ltcode/blob/master/23.cpp)|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Solution 24](https://github.com/cedarz/ltcode/blob/master/24.cpp)|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Solution 25](https://github.com/cedarz/ltcode/blob/master/25.cpp)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution 26](https://github.com/cedarz/ltcode/blob/master/26.cpp)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|Solution 27|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|Solution 28|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|Solution 29|
