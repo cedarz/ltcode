@@ -37,7 +37,7 @@ public:
                    }
                    stk.pop();
                }
-               //ѭ������Ŀ
+               //Ñ­»·£¬ÀáÄ¿
                res->next = NULL;
            } else {
                if(!res) {
@@ -49,7 +49,6 @@ public:
                break;
            }
         } 
-        //cout << "cnt = " << cnt << endl;
         return head;
     }
 };
