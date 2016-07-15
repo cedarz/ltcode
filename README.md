@@ -31,11 +31,11 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution 28](https://github.com/cedarz/ltcode/blob/master/28.cpp)|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Solution 29](https://github.com/cedarz/ltcode/blob/master/29.cpp)|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Solution 30](https://github.com/cedarz/ltcode/blob/master/30.cpp)|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation)|Solution 31|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|Solution 32|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|Solution 33|
-|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|Solution 34|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Solution 35|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[Solution 31](https://github.com/cedarz/ltcode/blob/master/31.cpp)|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Solution 32](https://github.com/cedarz/ltcode/blob/master/32.cpp)|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Solution 33](https://github.com/cedarz/ltcode/blob/master/33.cpp)|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Solution 34](https://github.com/cedarz/ltcode/blob/master/34.cpp)|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Solution 35](https://github.com/cedarz/ltcode/blob/master/35.cpp)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|Solution 36|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|Solution 37|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|Solution 38|
