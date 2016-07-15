@@ -27,10 +27,10 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Solution 24](https://github.com/cedarz/ltcode/blob/master/24.cpp)|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Solution 25](https://github.com/cedarz/ltcode/blob/master/25.cpp)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution 26](https://github.com/cedarz/ltcode/blob/master/26.cpp)|
-|27|[Remove Element](https://leetcode.com/problems/remove-element)|Solution 27|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|Solution 28|
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|Solution 29|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|Solution 30|
+|27|[Remove Element](https://leetcode.com/problems/remove-element)|[Solution 27](https://github.com/cedarz/ltcode/blob/master/27.cpp)|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution 28](https://github.com/cedarz/ltcode/blob/master/28.cpp)|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Solution 29](https://github.com/cedarz/ltcode/blob/master/29.cpp)|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Solution 30](https://github.com/cedarz/ltcode/blob/master/30.cpp)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|Solution 31|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|Solution 32|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|Solution 33|
