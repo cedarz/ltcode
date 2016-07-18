@@ -36,11 +36,11 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Solution 33](https://github.com/cedarz/ltcode/blob/master/33.cpp)|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Solution 34](https://github.com/cedarz/ltcode/blob/master/34.cpp)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Solution 35](https://github.com/cedarz/ltcode/blob/master/35.cpp)|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|Solution 36|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|Solution 37|
-|38|[Count and Say](https://leetcode.com/problems/count-and-say)|Solution 38|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum)|Solution 39|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|Solution 40|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Solution 36](https://github.com/cedarz/ltcode/blob/master/36.cpp)|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Solution 37](https://github.com/cedarz/ltcode/blob/master/37.cpp)|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Solution 38](https://github.com/cedarz/ltcode/blob/master/38.cpp)|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Solution 39](https://github.com/cedarz/ltcode/blob/master/39.cpp)|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Solution 40](https://github.com/cedarz/ltcode/blob/master/40.cpp)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|Solution 41|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|Solution 42|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|Solution 43|
