@@ -41,16 +41,16 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Solution 38](https://github.com/cedarz/ltcode/blob/master/38.cpp)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Solution 39](https://github.com/cedarz/ltcode/blob/master/39.cpp)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Solution 40](https://github.com/cedarz/ltcode/blob/master/40.cpp)|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|Solution 41|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|Solution 42|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|Solution 43|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)|Solution 44|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|Solution 45|
-|46|[Permutations](https://leetcode.com/problems/permutations)|Solution 46|
-|47|[Permutations II](https://leetcode.com/problems/permutations-ii)|Solution 47|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image)|Solution 48|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|Solution 49|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx,-n)|Solution 50|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[Solution 41](https://github.com/cedarz/ltcode/blob/master/41.cpp)|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Solution 42](https://github.com/cedarz/ltcode/blob/master/42.cpp)|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Solution 43](https://github.com/cedarz/ltcode/blob/master/43.cpp)|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)|[Solution 44](https://github.com/cedarz/ltcode/blob/master/44.cpp)|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Solution 45](https://github.com/cedarz/ltcode/blob/master/45.cpp)|
+|46|[Permutations](https://leetcode.com/problems/permutations)|[Solution 46](https://github.com/cedarz/ltcode/blob/master/46.cpp)|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Solution 47](https://github.com/cedarz/ltcode/blob/master/47.cpp)|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution 48](https://github.com/cedarz/ltcode/blob/master/48.cpp)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Solution 49](https://github.com/cedarz/ltcode/blob/master/49.cpp)|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx,-n)|[Solution 50](https://github.com/cedarz/ltcode/blob/master/50.cpp)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens)|Solution 51|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|Solution 52|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|Solution 53|
