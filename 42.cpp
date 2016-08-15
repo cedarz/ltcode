@@ -18,7 +18,7 @@ public:
                     break;
                 } else {
                     // if none is bigger than the left, find the biggest
-                    // as left as it can be, that is why >= exists
+                    // as right as it can be, that is why >= exists
                     if(height[hig] >= highest) {
                         __x = hig;
                         highest = height[hig];
