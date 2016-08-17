@@ -49,8 +49,8 @@
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Solution 46](https://github.com/cedarz/ltcode/blob/master/46.cpp)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Solution 47](https://github.com/cedarz/ltcode/blob/master/47.cpp)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution 48](https://github.com/cedarz/ltcode/blob/master/48.cpp)|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Solution 49](https://github.com/cedarz/ltcode/blob/master/49.cpp)|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx,-n)|[Solution 50](https://github.com/cedarz/ltcode/blob/master/50.cpp)|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams)|[Solution 49](https://github.com/cedarz/ltcode/blob/master/49.cpp)|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Solution 50](https://github.com/cedarz/ltcode/blob/master/50.cpp)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens)|Solution 51|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|Solution 52|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|Solution 53|

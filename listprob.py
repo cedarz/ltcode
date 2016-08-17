@@ -5,6 +5,8 @@ import os
 import sys
 import re
 import codecs
+from abnormal import *
+
 def read_file(file):
     lf = []
     f = open(file, 'r')
@@ -17,6 +19,7 @@ def read_file(file):
         #id-num
         match = re.match('[0-9]+', line)
         #print match.span(), match.group()
+        algo_num = int(match.group())
         item = item + (int(match.group()),)
         #print item
 
@@ -29,6 +32,8 @@ def read_file(file):
         name = re.sub('[\(\)]', '', name)
         name = name.replace(' ', '-')
         print "name : ", name
+        if algo_num in Abnormal.keys():
+            name = Abnormal[algo_num]
         item = item + (oname, name)
         
 
