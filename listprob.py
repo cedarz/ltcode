@@ -70,7 +70,10 @@ if __name__ == '__main__':
     for item in lf:
         sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|'
         if item[0] <= 50:
-            sline += '[Solution ' + str(item[0]) + '](' + 'https://github.com/cedarz/ltcode/blob/master/' + str(item[0]) + '.cpp)|\n'
+            ext = '.cpp'
+            if item[0] in pys:
+                ext = '.py'
+            sline += '[Solution ' + str(item[0]) + '](' + 'https://github.com/cedarz/ltcode/blob/master/' + str(item[0]) + ext + ')|\n'
         else:
             sline += 'Solution ' + str(item[0]) + '|\n'
         md.write(sline)

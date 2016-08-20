@@ -43,7 +43,7 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Solution 40](https://github.com/cedarz/ltcode/blob/master/40.cpp)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|[Solution 41](https://github.com/cedarz/ltcode/blob/master/41.cpp)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Solution 42](https://github.com/cedarz/ltcode/blob/master/42.cpp)|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Solution 43](https://github.com/cedarz/ltcode/blob/master/43.cpp)|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Solution 43](https://github.com/cedarz/ltcode/blob/master/43.py)|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)|[Solution 44](https://github.com/cedarz/ltcode/blob/master/44.cpp)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Solution 45](https://github.com/cedarz/ltcode/blob/master/45.cpp)|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Solution 46](https://github.com/cedarz/ltcode/blob/master/46.cpp)|
