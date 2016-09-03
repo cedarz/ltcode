@@ -51,16 +51,16 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution 48](https://github.com/cedarz/ltcode/blob/master/48.cpp)|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams)|[Solution 49](https://github.com/cedarz/ltcode/blob/master/49.cpp)|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Solution 50](https://github.com/cedarz/ltcode/blob/master/50.cpp)|
-|51|[N-Queens](https://leetcode.com/problems/n-queens)|Solution 51|
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|Solution 52|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|Solution 53|
-|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|Solution 54|
-|55|[Jump Game](https://leetcode.com/problems/jump-game)|Solution 55|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|Solution 56|
-|57|[Insert Interval](https://leetcode.com/problems/insert-interval)|Solution 57|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|Solution 58|
-|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|Solution 59|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|Solution 60|
+|51|[N-Queens](https://leetcode.com/problems/n-queens)|[Solution 51](https://github.com/cedarz/ltcode/blob/master/51.cpp)|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|[Solution 52](https://github.com/cedarz/ltcode/blob/master/52.cpp)|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Solution 53](https://github.com/cedarz/ltcode/blob/master/53.cpp)|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Solution 54](https://github.com/cedarz/ltcode/blob/master/54.cpp)|
+|55|[Jump Game](https://leetcode.com/problems/jump-game)|[Solution 55](https://github.com/cedarz/ltcode/blob/master/55.cpp)|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Solution 56](https://github.com/cedarz/ltcode/blob/master/56.cpp)|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval)|[Solution 57](https://github.com/cedarz/ltcode/blob/master/57.cpp)|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution 58](https://github.com/cedarz/ltcode/blob/master/58.cpp)|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[Solution 59](https://github.com/cedarz/ltcode/blob/master/59.cpp)|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Solution 60](https://github.com/cedarz/ltcode/blob/master/60.cpp)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|Solution 61|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|Solution 62|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|Solution 63|
