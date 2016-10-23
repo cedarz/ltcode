@@ -62,7 +62,6 @@ public:
             dir = (dir + 1) % 4;
             if(!has_element) break;
         }
-        v.push_back(matrix[i][j]);
         return v;
     }
 private:
