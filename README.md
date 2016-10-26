@@ -61,16 +61,16 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution 58](https://github.com/cedarz/ltcode/blob/master/58.cpp)|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[Solution 59](https://github.com/cedarz/ltcode/blob/master/59.cpp)|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Solution 60](https://github.com/cedarz/ltcode/blob/master/60.cpp)|
-|61|[Rotate List](https://leetcode.com/problems/rotate-list)|Solution 61|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|Solution 62|
-|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|Solution 63|
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|Solution 64|
-|65|[Valid Number](https://leetcode.com/problems/valid-number)|Solution 65|
-|66|[Plus One](https://leetcode.com/problems/plus-one)|Solution 66|
-|67|[Add Binary](https://leetcode.com/problems/add-binary)|Solution 67|
-|68|[Text Justification](https://leetcode.com/problems/text-justification)|Solution 68|
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|Solution 69|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|Solution 70|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list)|[Solution 61](https://github.com/cedarz/ltcode/blob/master/61.cpp)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Solution 62](https://github.com/cedarz/ltcode/blob/master/62.cpp)|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|[Solution 63](https://github.com/cedarz/ltcode/blob/master/63.cpp)|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|[Solution 64](https://github.com/cedarz/ltcode/blob/master/64.cpp)|
+|65|[Valid Number](https://leetcode.com/problems/valid-number)|[Solution 65](https://github.com/cedarz/ltcode/blob/master/65.cpp)|
+|66|[Plus One](https://leetcode.com/problems/plus-one)|[Solution 66](https://github.com/cedarz/ltcode/blob/master/66.cpp)|
+|67|[Add Binary](https://leetcode.com/problems/add-binary)|[Solution 67](https://github.com/cedarz/ltcode/blob/master/67.cpp)|
+|68|[Text Justification](https://leetcode.com/problems/text-justification)|[Solution 68](https://github.com/cedarz/ltcode/blob/master/68.cpp)|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Solution 69](https://github.com/cedarz/ltcode/blob/master/69.cpp)|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Solution 70](https://github.com/cedarz/ltcode/blob/master/70.cpp)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|Solution 71|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance)|Solution 72|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|Solution 73|
