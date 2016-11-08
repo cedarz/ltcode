@@ -24,7 +24,10 @@ public:
         if(index == len) {
             return true;
         } else {
-            if(s[index] =='e' || s[index] == 'E') ++index;
+            if(s[index] =='e' || s[index] == 'E') {
+                ++index;
+                if(index == 1) return false;
+            }
             else return false;
             if(index == len) return false;
             else {
