@@ -71,16 +71,16 @@
 |68|[Text Justification](https://leetcode.com/problems/text-justification)|[Solution 68](https://github.com/cedarz/ltcode/blob/master/68.cpp)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Solution 69](https://github.com/cedarz/ltcode/blob/master/69.cpp)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Solution 70](https://github.com/cedarz/ltcode/blob/master/70.cpp)|
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path)|Solution 71|
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance)|Solution 72|
-|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|Solution 73|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|Solution 74|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors)|Solution 75|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|Solution 76|
-|77|[Combinations](https://leetcode.com/problems/combinations)|Solution 77|
-|78|[Subsets](https://leetcode.com/problems/subsets)|Solution 78|
-|79|[Word Search](https://leetcode.com/problems/word-search)|Solution 79|
-|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|Solution 80|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Solution 71](https://github.com/cedarz/ltcode/blob/master/71.cpp)|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance)|[Solution 72](https://github.com/cedarz/ltcode/blob/master/72.cpp)|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Solution 73](https://github.com/cedarz/ltcode/blob/master/73.cpp)|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Solution 74](https://github.com/cedarz/ltcode/blob/master/74.cpp)|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Solution 75](https://github.com/cedarz/ltcode/blob/master/75.cpp)|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Solution 76](https://github.com/cedarz/ltcode/blob/master/76.cpp)|
+|77|[Combinations](https://leetcode.com/problems/combinations)|[Solution 77](https://github.com/cedarz/ltcode/blob/master/77.cpp)|
+|78|[Subsets](https://leetcode.com/problems/subsets)|[Solution 78](https://github.com/cedarz/ltcode/blob/master/78.cpp)|
+|79|[Word Search](https://leetcode.com/problems/word-search)|[Solution 79](https://github.com/cedarz/ltcode/blob/master/79.cpp)|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Solution 80](https://github.com/cedarz/ltcode/blob/master/80.cpp)|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|Solution 81|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|Solution 82|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|Solution 83|
