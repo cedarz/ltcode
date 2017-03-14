@@ -22,7 +22,7 @@ public:
                     high = m - 1;
                 }
             } else {
-                high--;
+                ++low;
             }
             m = (low + high) / 2;
         } 
