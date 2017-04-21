@@ -65,7 +65,7 @@ if __name__ == '__main__':
     ##create the table
     #md = codecs.open('README.md', 'w', 'utf-8')
     md = open('README.md', 'w')
-    md.write('#leetcode\n')
+    md.write('# leetcode\n')
     md.write(u'| # | problem | Solution|\n')
     md.write('|:-----:|:-----|:------:|\n')
 
