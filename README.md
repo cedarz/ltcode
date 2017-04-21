@@ -101,16 +101,16 @@
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[Solution 98](https://github.com/cedarz/ltcode/blob/master/98.cpp)|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[Solution 99](https://github.com/cedarz/ltcode/blob/master/99.cpp)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Solution 100](https://github.com/cedarz/ltcode/blob/master/100.cpp)|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|Solution 101|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|Solution 102|
-|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|Solution 103|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Solution 104|
-|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|Solution 105|
-|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|Solution 106|
-|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|Solution 107|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|Solution 108|
-|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|Solution 109|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|Solution 110|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Solution 101](https://github.com/cedarz/ltcode/blob/master/101.cpp)|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Solution 102](https://github.com/cedarz/ltcode/blob/master/102.cpp)|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|[Solution 103](https://github.com/cedarz/ltcode/blob/master/103.cpp)|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Solution 104](https://github.com/cedarz/ltcode/blob/master/104.cpp)|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Solution 105](https://github.com/cedarz/ltcode/blob/master/105.cpp)|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[Solution 106](https://github.com/cedarz/ltcode/blob/master/106.cpp)|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Solution 107](https://github.com/cedarz/ltcode/blob/master/107.cpp)|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Solution 108](https://github.com/cedarz/ltcode/blob/master/108.cpp)|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[Solution 109](https://github.com/cedarz/ltcode/blob/master/109.cpp)|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[Solution 110](https://github.com/cedarz/ltcode/blob/master/110.cpp)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|Solution 111|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|Solution 112|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|Solution 113|
@@ -118,8 +118,8 @@
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)|Solution 115|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|Solution 116|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|Solution 117|
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle)|Solution 118|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-yriangle-ii)|Solution 119|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|Solution 118|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|Solution 119|
 |120|[Triangle](https://leetcode.com/problems/triangle)|Solution 120|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|Solution 121|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|Solution 122|
