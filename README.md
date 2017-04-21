@@ -1,5 +1,5 @@
 #leetcode
-| # | 题目 | Solution|
+| # | problem | Solution|
 |:-----:|:-----|:------:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Solution 1](https://github.com/cedarz/ltcode/blob/master/1.cpp)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Solution 2](https://github.com/cedarz/ltcode/blob/master/2.cpp)|
@@ -81,3 +81,73 @@
 |78|[Subsets](https://leetcode.com/problems/subsets)|[Solution 78](https://github.com/cedarz/ltcode/blob/master/78.cpp)|
 |79|[Word Search](https://leetcode.com/problems/word-search)|[Solution 79](https://github.com/cedarz/ltcode/blob/master/79.cpp)|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Solution 80](https://github.com/cedarz/ltcode/blob/master/80.cpp)|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Solution 81](https://github.com/cedarz/ltcode/blob/master/81.cpp)|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Solution 82](https://github.com/cedarz/ltcode/blob/master/82.cpp)|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Solution 83](https://github.com/cedarz/ltcode/blob/master/83.cpp)|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|[Solution 84](https://github.com/cedarz/ltcode/blob/master/84.cpp)|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)|[Solution 85](https://github.com/cedarz/ltcode/blob/master/85.cpp)|
+|86|[Partition List](https://leetcode.com/problems/partition-list)|[Solution 86](https://github.com/cedarz/ltcode/blob/master/86.cpp)|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string)|[Solution 87](https://github.com/cedarz/ltcode/blob/master/87.cpp)|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Solution 88](https://github.com/cedarz/ltcode/blob/master/88.cpp)|
+|89|[Gray Code](https://leetcode.com/problems/gray-code)|[Solution 89](https://github.com/cedarz/ltcode/blob/master/89.cpp)|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii)|[Solution 90](https://github.com/cedarz/ltcode/blob/master/90.cpp)|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways)|[Solution 91](https://github.com/cedarz/ltcode/blob/master/91.cpp)|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|[Solution 92](https://github.com/cedarz/ltcode/blob/master/92.cpp)|
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)|[Solution 93](https://github.com/cedarz/ltcode/blob/master/93.cpp)|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Solution 94](https://github.com/cedarz/ltcode/blob/master/94.cpp)|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)|[Solution 95](https://github.com/cedarz/ltcode/blob/master/95.cpp)|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|[Solution 96](https://github.com/cedarz/ltcode/blob/master/96.cpp)|
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string)|[Solution 97](https://github.com/cedarz/ltcode/blob/master/97.cpp)|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[Solution 98](https://github.com/cedarz/ltcode/blob/master/98.cpp)|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[Solution 99](https://github.com/cedarz/ltcode/blob/master/99.cpp)|
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|[Solution 100](https://github.com/cedarz/ltcode/blob/master/100.cpp)|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|Solution 101|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|Solution 102|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|Solution 103|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Solution 104|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|Solution 105|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|Solution 106|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|Solution 107|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|Solution 108|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|Solution 109|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|Solution 110|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|Solution 111|
+|112|[Path Sum](https://leetcode.com/problems/path-sum)|Solution 112|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|Solution 113|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|Solution 114|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)|Solution 115|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|Solution 116|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|Solution 117|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle)|Solution 118|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-yriangle-ii)|Solution 119|
+|120|[Triangle](https://leetcode.com/problems/triangle)|Solution 120|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|Solution 121|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|Solution 122|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|Solution 123|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|Solution 124|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|Solution 125|
+|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii)|Solution 126|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder)|Solution 127|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|Solution 128|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|Solution 129|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions)|Solution 130|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)|Solution 131|
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)|Solution 132|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph)|Solution 133|
+|134|[Gas Station](https://leetcode.com/problems/gas-station)|Solution 134|
+|135|[Candy](https://leetcode.com/problems/candy)|Solution 135|
+|136|[Single Number](https://leetcode.com/problems/single-number)|Solution 136|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii)|Solution 137|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|Solution 138|
+|139|[Word Break](https://leetcode.com/problems/word-break)|Solution 139|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii)|Solution 140|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|Solution 141|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|Solution 142|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list)|Solution 143|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|Solution 144|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|Solution 145|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache)|Solution 146|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|Solution 147|
+|148|[Sort List](https://leetcode.com/problems/sort-list)|Solution 148|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|Solution 149|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|Solution 150|

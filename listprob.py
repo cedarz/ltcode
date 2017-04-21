@@ -63,16 +63,14 @@ if __name__ == '__main__':
     lf = read_file('problems.txt')
 
     ##create the table
-    md = codecs.open('README.md', 'w', 'utf-8')
+    #md = codecs.open('README.md', 'w', 'utf-8')
+    md = open('README.md', 'w')
     md.write('#leetcode\n')
-    md.write(u'| # | ÌâÄ¿ | Solution|\n')
+    md.write(u'| # | problem | Solution|\n')
     md.write('|:-----:|:-----|:------:|\n')
 
-    cnt = 0
+
     for item in lf:
-        cnt += 1
-        if cnt > 80:
-            continue
         sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|'
         if item[0] <= 100:
             ext = '.cpp'
