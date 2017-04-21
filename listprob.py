@@ -15,7 +15,7 @@ def read_file(file):
         item = ()
 
         x = line[2]
-        print int(ord(x))
+        #print int(ord(x))
         #id-num
         match = re.match('[0-9]+', line)
         #print match.span(), match.group()
@@ -25,7 +25,7 @@ def read_file(file):
 
         #problem name
         line = line[match.span()[1]:].strip()
-        match = re.match('[ \(\)\-,\w]+', line)  ##here why the regex works is that the \t char exists
+        match = re.match('[ \(\)\-,\w\']+', line)  ##here why the regex works is that the \t char exists
         #print match.span(),
         oname = match.group().strip()
         name = match.group().strip().lower()
@@ -41,6 +41,7 @@ def read_file(file):
         line = line[match.span()[1]:].strip()
         match = re.match('[0-9]+\.[0-9]+', line)
         #print match.span(), match.group().strip()
+        print line
         item = item + (match.group().strip() + '%',)
 
         #easy hard
@@ -69,7 +70,7 @@ if __name__ == '__main__':
     
     for item in lf:
         sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|'
-        if item[0] <= 100:
+        if item[0] <= 150:
             ext = '.cpp'
             if item[0] in pys:
                 ext = '.py'
