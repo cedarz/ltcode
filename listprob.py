@@ -67,10 +67,14 @@ if __name__ == '__main__':
     md.write('#leetcode\n')
     md.write(u'| # | ÌâÄ¿ | Solution|\n')
     md.write('|:-----:|:-----|:------:|\n')
-    
+
+    cnt = 0
     for item in lf:
+        cnt += 1
+        if cnt > 80:
+            continue
         sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|'
-        if item[0] <= 80:
+        if item[0] <= 100:
             ext = '.cpp'
             if item[0] in pys:
                 ext = '.py'
