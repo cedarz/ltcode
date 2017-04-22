@@ -9,16 +9,7 @@
  */
 class Solution {
 public:
-    bool isValidBST(TreeNode* root) {
-		prev = NULL;
-		curr = NULL;
-		
-		
+    void flatten(TreeNode* root) {
+        
     }
-	
-	void inorderMorrisTraversal()
-	
-private:
-	TreeNode * prev, *curr;
-	
 };
