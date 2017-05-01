@@ -24,12 +24,11 @@ public:
 		if(root->left == NULL && root->right == NULL && root->val == sum) {
 			curr.push_back(root->val);
 			res.push_back(curr);
+			curr.pop_back();
 		} else {
 			curr.push_back(root->val);
 			dfs(root->left, sum - root->val, curr);
-			curr.pop_back();
 			dfs(root->right, sum - root->val, curr);
-			
 			curr.pop_back();
 		}
 	}
