@@ -16,7 +16,7 @@ public:
 	
 	bool dfs(string & s) {
 		int left = 0;
-		int right = s.size() - 1;
+		int right = s.size() - 1; //注意这里的类型，因为size_t时候0
 		while(left < right && s[left] == s[right]) {
 		    ++left;
 		    --right;
