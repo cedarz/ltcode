@@ -57,10 +57,18 @@ def read_file(file):
     print lf
     return lf
 
+def read_locks(lock_file):
+    lock_f = open(lock_file, 'r')
+    ret = []
+    for one in lock_f:
+        one = one.strip()
+        ret.append(int(one))
+    return ret
 
 
 if __name__ == '__main__':
     lf = read_file('problems.txt')
+    locks = read_locks('lock_problems.txt')
 
     ##create the table
     #md = codecs.open('README.md', 'w', 'utf-8')
@@ -71,7 +79,11 @@ if __name__ == '__main__':
 
 
     for item in lf:
-        sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')|'
+        if int(item[0]) in locks:
+            lock_ = '![](lock.png)'
+        else :
+            lock_ = ''
+        sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + lock_ + item[2] + ')|'
         if item[0] <= 170:
             ext = '.cpp'
             if item[0] in pys:
