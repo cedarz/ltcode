@@ -80,7 +80,7 @@ if __name__ == '__main__':
 
     for item in lf:
         if int(item[0]) in locks:
-            lock_ = '![](https://github.com/cedarz/ltcode/blob/master/lock.png =20x20)'
+            lock_ = '![](https://github.com/cedarz/ltcode/blob/master/lock.png)'
         else :
             lock_ = ''
         sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')' + lock_  +'|'
