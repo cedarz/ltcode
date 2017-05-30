@@ -20,7 +20,7 @@ public:
 		
 		while(curr) {
 			if(curr->left == nullptr) {
-				ret.push_back(curr->val);
+				//ret.push_back(curr->val);
 				curr = curr->right;
 			} else {
 				prev = curr->left;
@@ -32,7 +32,8 @@ public:
 					prev->right = curr;
 					curr = curr->left;
 				} else {
-				    ret.push_back(curr->left->val);
+				    //if(curr->left->left) ret.push_back(curr->left->val);
+					push(ret, curr->left, prev);
 					prev->right = nullptr;
 					curr = curr->right;
 				}
@@ -40,4 +41,13 @@ public:
 		}
 		return ret;
     }
+	
+	void push(vector<int> & ret, TreeNode * from, TreeNode * to) {
+		if(from == to) {
+			ret.push_back(from->val);
+		} else {
+			push(ret, from->right, to);
+			ret.push_back(from->val);
+		}
+	}
 };
