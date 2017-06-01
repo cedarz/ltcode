@@ -5,26 +5,28 @@ public:
 		int a, b;
 		for(int i = 0; i < tokens.size(); ++i) {
 			string & tmp = tokens[i];
-			switch (tmp[0]){
-				case '+':
-				case '-':
-				case '*':
-				case '/':
-					b = stk.top();
-					stk.pop();
-					a = stk.top();
-					stk.pop();
-					switch (tmp[0]) {
-						case '+': stk.push(a + b); break;
-						case '-': stk.push(a - b); break;
-						case '*': stk.push(a * b); break;
-						case '/': stk.push(a / b); break;
-					}
-					break;
-				default:
-					stk.push(str2int(tmp));
-					break;
-			}
+            if(tmp == "+" || tmp == "-" || tmp == "*" || tmp == "/") {
+    			switch (tmp[0]){
+    				case '+':
+    				case '-':
+    				case '*':
+    				case '/':
+    					b = stk.top();
+    					stk.pop();
+    					a = stk.top();
+    					stk.pop();
+    					switch (tmp[0]) {
+    						case '+': stk.push(a + b); break;
+    						case '-': stk.push(a - b); break;
+    						case '*': stk.push(a * b); break;
+    						case '/': stk.push(a / b); break;
+    					}
+    					break;
+    			}
+    		} else {
+    		    cout << str2int(tmp) <<endl;
+				stk.push(str2int(tmp));
+    		}
 		}
 		return stk.top();
     }

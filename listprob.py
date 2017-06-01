@@ -84,7 +84,7 @@ if __name__ == '__main__':
         else :
             lock_ = ''
         sline = '|' + str(item[0]) + '|[' + item[1] + '](https://leetcode.com/problems/' + item[2] + ')' + lock_  +'|'
-        if item[0] <= 170:
+        if item[0] <= 200:
             ext = '.cpp'
             if item[0] in pys:
                 ext = '.py'
