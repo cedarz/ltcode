@@ -62,7 +62,8 @@ def read_locks(lock_file):
     ret = []
     for one in lock_f:
         one = one.strip()
-        ret.append(int(one))
+        if one:
+            ret.append(int(one))
     return ret
 
 
