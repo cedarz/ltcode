@@ -6,19 +6,19 @@ public:
 		row = grid.size();
 		col = grid[0].size();
 		
-        while(true) {
-			bool to_bfs = false;
+        //while(true) {
+			//bool to_bfs = false;
 			for(int i = 0; i < row; ++i) {
 				for(int j = 0; j < col; ++j) {
 					if(grid[i][j] == '1') {
 						++ret;
-						to_bfs = true;
+						//to_bfs = true;
 						bfs(grid, i, j);
 					}
 				}
 			}
-			if(!to_bfs) break;
-		}
+			//if(!to_bfs) break;
+		//}
 		return ret;
     }
 	
