@@ -284,3 +284,103 @@
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 298](https://github.com/cedarz/ltcode/blob/master/298.cpp)|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|[Solution 299](https://github.com/cedarz/ltcode/blob/master/299.cpp)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|[Solution 300](https://github.com/cedarz/ltcode/blob/master/300.cpp)|
+|301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Solution 301](https://github.com/cedarz/ltcode/blob/master/301.cpp)|
+|302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 302](https://github.com/cedarz/ltcode/blob/master/302.cpp)|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query---immutable)|[Solution 303](https://github.com/cedarz/ltcode/blob/master/303.cpp)|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d---immutable)|[Solution 304](https://github.com/cedarz/ltcode/blob/master/304.cpp)|
+|305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 305](https://github.com/cedarz/ltcode/blob/master/305.cpp)|
+|306|[Additive Number](https://leetcode.com/problems/additive-number)|[Solution 306](https://github.com/cedarz/ltcode/blob/master/306.cpp)|
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query---mutable)|[Solution 307](https://github.com/cedarz/ltcode/blob/master/307.cpp)|
+|308|[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d---mutable)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 308](https://github.com/cedarz/ltcode/blob/master/308.cpp)|
+|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)|[Solution 309](https://github.com/cedarz/ltcode/blob/master/309.cpp)|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)|[Solution 310](https://github.com/cedarz/ltcode/blob/master/310.cpp)|
+|311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 311](https://github.com/cedarz/ltcode/blob/master/311.cpp)|
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons)|[Solution 312](https://github.com/cedarz/ltcode/blob/master/312.cpp)|
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number)|[Solution 313](https://github.com/cedarz/ltcode/blob/master/313.cpp)|
+|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 314](https://github.com/cedarz/ltcode/blob/master/314.cpp)|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|[Solution 315](https://github.com/cedarz/ltcode/blob/master/315.cpp)|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters)|[Solution 316](https://github.com/cedarz/ltcode/blob/master/316.cpp)|
+|317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 317](https://github.com/cedarz/ltcode/blob/master/317.cpp)|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)|[Solution 318](https://github.com/cedarz/ltcode/blob/master/318.cpp)|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher)|[Solution 319](https://github.com/cedarz/ltcode/blob/master/319.cpp)|
+|320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 320](https://github.com/cedarz/ltcode/blob/master/320.cpp)|
+|321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number)|[Solution 321](https://github.com/cedarz/ltcode/blob/master/321.cpp)|
+|322|[Coin Change](https://leetcode.com/problems/coin-change)|[Solution 322](https://github.com/cedarz/ltcode/blob/master/322.cpp)|
+|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 323](https://github.com/cedarz/ltcode/blob/master/323.cpp)|
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii)|[Solution 324](https://github.com/cedarz/ltcode/blob/master/324.cpp)|
+|325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 325](https://github.com/cedarz/ltcode/blob/master/325.cpp)|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three)|[Solution 326](https://github.com/cedarz/ltcode/blob/master/326.cpp)|
+|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum)|[Solution 327](https://github.com/cedarz/ltcode/blob/master/327.cpp)|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|[Solution 328](https://github.com/cedarz/ltcode/blob/master/328.cpp)|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)|[Solution 329](https://github.com/cedarz/ltcode/blob/master/329.cpp)|
+|330|[Patching Array](https://leetcode.com/problems/patching-array)|[Solution 330](https://github.com/cedarz/ltcode/blob/master/330.cpp)|
+|331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)|[Solution 331](https://github.com/cedarz/ltcode/blob/master/331.cpp)|
+|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)|[Solution 332](https://github.com/cedarz/ltcode/blob/master/332.cpp)|
+|333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 333](https://github.com/cedarz/ltcode/blob/master/333.cpp)|
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|[Solution 334](https://github.com/cedarz/ltcode/blob/master/334.cpp)|
+|335|[Self Crossing](https://leetcode.com/problems/self-crossing)|[Solution 335](https://github.com/cedarz/ltcode/blob/master/335.cpp)|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs)|[Solution 336](https://github.com/cedarz/ltcode/blob/master/336.cpp)|
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii)|[Solution 337](https://github.com/cedarz/ltcode/blob/master/337.cpp)|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[Solution 338](https://github.com/cedarz/ltcode/blob/master/338.cpp)|
+|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 339](https://github.com/cedarz/ltcode/blob/master/339.cpp)|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 340](https://github.com/cedarz/ltcode/blob/master/340.cpp)|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)|[Solution 341](https://github.com/cedarz/ltcode/blob/master/341.cpp)|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four)|[Solution 342](https://github.com/cedarz/ltcode/blob/master/342.cpp)|
+|343|[Integer Break](https://leetcode.com/problems/integer-break)|[Solution 343](https://github.com/cedarz/ltcode/blob/master/343.cpp)|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Solution 344](https://github.com/cedarz/ltcode/blob/master/344.cpp)|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Solution 345](https://github.com/cedarz/ltcode/blob/master/345.cpp)|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 346](https://github.com/cedarz/ltcode/blob/master/346.cpp)|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[Solution 347](https://github.com/cedarz/ltcode/blob/master/347.cpp)|
+|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|[Solution 348](https://github.com/cedarz/ltcode/blob/master/348.cpp)|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Solution 349](https://github.com/cedarz/ltcode/blob/master/349.cpp)|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Solution 350](https://github.com/cedarz/ltcode/blob/master/350.cpp)|
+|351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 351|
+|352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|Solution 352|
+|353|[Design Snake Game](https://leetcode.com/problems/design-snake-game)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 353|
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)|Solution 354|
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter)|Solution 355|
+|356|[Line Reflection](https://leetcode.com/problems/line-reflection)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 356|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|Solution 357|
+|358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 358|
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 359|
+|360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 360|
+|361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 361|
+|362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 362|
+|363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)|Solution 363|
+|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 364|
+|365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem)|Solution 365|
+|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 366|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|Solution 367|
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset)|Solution 368|
+|369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 369|
+|370|[Range Addition](https://leetcode.com/problems/range-addition)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 370|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|Solution 371|
+|372|[Super Pow](https://leetcode.com/problems/super-pow)|Solution 372|
+|373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|Solution 373|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|Solution 374|
+|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii)|Solution 375|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|Solution 376|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)|Solution 377|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|Solution 378|
+|379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory)![](https://github.com/cedarz/ltcode/blob/master/lock.png)|Solution 379|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)|Solution 380|
+|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1---duplicates-allowed)|Solution 381|
+|382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node)|Solution 382|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note)|Solution 383|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)|Solution 384|
+|385|[Mini Parser](https://leetcode.com/problems/mini-parser)|Solution 385|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers)|Solution 386|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|Solution 387|
+|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path)|Solution 388|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|Solution 389|
+|390|[Elimination Game](https://leetcode.com/problems/elimination-game)|Solution 390|
+|391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle)|Solution 391|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|Solution 392|
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation)|Solution 393|
+|394|[Decode String](https://leetcode.com/problems/decode-string)|Solution 394|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)|Solution 395|
+|396|[Rotate Function](https://leetcode.com/problems/rotate-function)|Solution 396|
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement)|Solution 397|
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index)|Solution 398|
+|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division)|Solution 399|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit)|Solution 400|
